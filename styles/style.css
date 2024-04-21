@@ -1,0 +1,41 @@
+.frm-group {
+    width: 30%;
+    padding-bottom: 10px;
+    margin: auto;
+}
+
+.textind {
+    padding-top: 50px;
+}
+
+.frm {
+    padding-top: 90px;
+}
+
+#btn1 {
+    padding-top: 30px;
+}
+#btn2 {
+    padding-top: 5px
+}
+
+.d-grid.gap-2.col-6.mx-auto {
+    width: 300px;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+.d-flex.flex-row.mb-3 {
+    padding-top: 50px;
+}
+
+.p-3.bg-primary.border-bottom.bg-opacity-10.borderstart-0.rounded-end {
+    width: 30%;
+}
+
+#btn21 {
+    padding-top: 5px;
+    width: 150px;
+}
